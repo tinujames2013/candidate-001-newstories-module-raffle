@@ -1,0 +1,30 @@
+.raffle-widget {
+  background: #fdf6ec;
+  border: 2px solid #ffcf66;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  margin: 20px auto;
+  max-width: 400px;
+  font-family: 'Arial', sans-serif;
+}
+
+.raffle-button {
+  background-color: #ff9900;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: 0.3s;
+}
+
+.raffle-button:hover {
+  background-color: #cc7a00;
+}
+
+.message {
+  font-size: 16px;
+  margin-top: 10px;
+}
